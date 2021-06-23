@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.links{
+  margin-left: 200px;
+  text-decoration: none;
+  color: midnightblue;
+}
+.links:hover{
+  text-decoration: underline;
+  font-weight: 800;
+}
+
+.MainPage{
+  text-align: center;
+}
+
+.MainStyle{
+  text-align: center;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.MainSpan{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+img{
+  width: 500px;
+  height: 300px;
+}
